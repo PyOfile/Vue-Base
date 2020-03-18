@@ -81,6 +81,7 @@
 }
 
 .gullum {
+  border-radius: 6px;
   width: auto;
   padding: 50px 20px 20px 20px;
   background-color: #1a1b1c80;

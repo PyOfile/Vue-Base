@@ -22,7 +22,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 h1 {
-  padding: 1em 1em 1em 9em;
+  font-size: 65px;
+  padding: 1em 1em 1em 4em;
   color: #1670a0; 
 
 }

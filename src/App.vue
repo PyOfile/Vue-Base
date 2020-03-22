@@ -53,17 +53,23 @@ export default {
     
   }
   ul {  
+    padding: 1em .1em 1em .1em;
     border-radius: 6px;
     background-color: #484e4a;
-    box-shadow: inset 0 0 10px #dcdcdd;
+    box-shadow: inset 0 0 9px #dcdcdd;
   }
   a:hover {
-    color: #1670a0;
+    
+    color: #1670a080;
   }
   li:hover {
-    background-color: #1670a0;
+    
+    background-color: #1670a000;
   }
-  
+  a.dropdown-item:hover {
+    width: 4px 4px;
+    background-color: #1670a000;
+  }
    
 }
 

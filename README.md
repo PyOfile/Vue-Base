@@ -1,5 +1,7 @@
 # Code Master Fun
 
+This was just some fun learning how vue works with routing.
+
 ## Project setup
 ```
 npm install

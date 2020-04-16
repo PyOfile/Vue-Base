@@ -1,7 +1,7 @@
 <template>
 <b-container class="box">
   <b-row>
-  <Mothman msg="Codex Black Studio"/>
+  <Mothman msg=" "/>
   </b-row>
 <b-row align-v="center">
   

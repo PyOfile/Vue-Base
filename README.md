@@ -1,4 +1,4 @@
-# Codex Black Studio
+# Code Master Fun
 
 ## Project setup
 ```

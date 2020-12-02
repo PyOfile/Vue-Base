@@ -1,4 +1,4 @@
-# Code Master Fun
+# Code Fun
 
 This was just some fun learning how vue works with routing.
 

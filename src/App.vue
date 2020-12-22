@@ -16,7 +16,7 @@
    <router-view/>
    <br>
    <br>
-   <Footsum msg="Codex Black Studio ® 2020 All Rights Reserved" class="toenail"/>
+   <Footsum msg=" ® 2020 All Rights Reserved" class="toenail"/>
 </div>
 </template>
 

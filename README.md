@@ -1,4 +1,4 @@
-# Code Fun
+# Code base template
 
 This was just some fun learning how vue works with routing.
 
